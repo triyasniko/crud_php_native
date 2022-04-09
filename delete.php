@@ -1,0 +1,2 @@
+<?
+echo "ini file delete";
